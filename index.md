@@ -11,7 +11,6 @@ The APM workshop stands in the tradition of the [ABS](https://abs-models.org) wo
 The workshop will be held in Turin, Italy. Once confirmed, more information will be added to this website. 
 There will be a modest registration free to cover coffee breaks and lunches, and an option to register for a social dinner.
 
-## Programme and State-of-the-Art of Active Objects
 
 ## Organizers
 If there are any inquiries or questions, feel free to contact the organizers:
