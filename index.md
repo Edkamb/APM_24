@@ -1,5 +1,3 @@
-# APM Workshop 2024
-
 Welcome to the website of the Sixth Workshop on Asynchronous Programming Models, which will be held 2nd -- 4th October in Turin, Italy, hosted by the University of Turin.
 Information about prior iterations can be found [here](https://abs-models.org/publications/). 
 
