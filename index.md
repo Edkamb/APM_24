@@ -1,14 +1,18 @@
 Welcome to the website of the Sixth Workshop on Asynchronous Programming Models, which will be held 2nd -- 4th October in Turin, Italy, hosted by the University of Turin.
 Information about prior iterations can be found [here](https://abs-models.org/publications/). 
 
-The APM Workshop is a venue for the discussion of asynchronous programming patterns, languages and model, ranging from theoretical results, over applications and implementations to opinion and overview contributions.
-To create a welcoming atmosphere for the community, there are no procedeedings -- instead we welcome presentations on published, on-going or envisioned work.
+
+## Description
+The APM Workshop is a venue for the discussion of asynchronous programming patterns, languages and model, ranging from theoretical results, over applications and implementations to opinion and overview contributions. To create a welcoming atmosphere for the community, there are no procedeedings -- instead we welcome presentations on published, on-going or envisioned work. We especially encourage the participation of junior researchers and presentations that can be the basis for discussions on the future of the field.
 
 The APM workshop stands in the tradition of the [ABS](https://abs-models.org) workshop, whose [last iteration](http://edkamb.github.io/ABS_23) took place in Lyon, France, but is not specific to any language or paradigm. 
 
 
-## Venue
-The workshop will be held in Turin, Italy. Once confirmed, more information will be added to this website. 
+## Venue and Registration 
+The workshop will be held at the beautiful Univeristy of Turin. To participate, please register under 
+
+  https://forms.gle/UqBmfKUqYTUqhE7r7 
+
 There will be a modest registration free to cover coffee breaks and lunches, and an option to register for a social dinner.
 
 
