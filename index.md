@@ -9,7 +9,7 @@ The APM workshop stands in the tradition of the [ABS](https://abs-models.org) wo
 
 
 ## Venue and Registration 
-The workshop will be held at the beautiful Univeristy of Turin. To submit a presentation proposal, please register under 
+The workshop will be held at the beautiful Univeristy of Turin. To submit a presentation proposal, please submit it under 
 
   [https://forms.gle/UqBmfKUqYTUqhE7r7](https://forms.gle/WDBATd2aUyqLwMXf7)
 
