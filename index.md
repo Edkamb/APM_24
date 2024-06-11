@@ -7,15 +7,26 @@ The APM Workshop is a venue for the discussion of asynchronous programming patte
 
 The APM workshop stands in the tradition of the [ABS](https://abs-models.org) workshop, whose [last iteration](http://edkamb.github.io/ABS_23) took place in Lyon, France, but is not specific to any language or paradigm. 
 
-
-## Venue and Registration 
-The workshop will be held at the beautiful Univeristy of Turin. To submit a presentation proposal, please submit it under 
+## Talk proposal submission
+ 
+To submit a talk proposal, please submit it under 
 
   [https://forms.gle/UqBmfKUqYTUqhE7r7](https://forms.gle/WDBATd2aUyqLwMXf7)
 
-There will be no reviewing, but acceptance is subject to approval by the organizers. A call for participation without a presentation will be published soon. 
-There will be a modest registration free to cover coffee breaks and lunches, and an option to register for a social dinner.
+There will be no reviewing, but acceptance is subject to approval by the organizers. A preliminary will be published as soon as possible. 
 
+
+## Venue and Registration 
+The workshop will be held at the beautiful Univeristy of Turin. 
+
+Palazzo Campana
+Via Carlo Alberto, 10
+Torino
+https://en.unito.it/about-unito/seats/metropolitan-seats/how-get-palazzo-campana
+
+There will be a modest registration free to cover coffee breaks and lunches, and an option to register for a social dinner (on October 3) and/or for a social event (on October 4 evening, with a limited number of partecipants).
+
+The registration page will be avalable soon (early registration up to July 31).
 
 ## Organizers
 If there are any inquiries or questions, feel free to contact the organizers:
