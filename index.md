@@ -17,7 +17,7 @@ There will be no reviewing, but acceptance is subject to approval by the organiz
 
 
 ## Venue and Registration 
-The workshop will be held at the Department of Mathematics of the University of Turin, located at the center of the beautiful Univeristy of Turin: 
+The workshop will be held at the Department of Mathematics of the University of Turin, located at the center of the beautiful city of Turin: 
 
 Palazzo Campana
 Via Carlo Alberto, 10
