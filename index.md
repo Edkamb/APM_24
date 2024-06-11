@@ -13,7 +13,7 @@ To submit a talk proposal, please submit it under
 
   [https://forms.gle/UqBmfKUqYTUqhE7r7](https://forms.gle/WDBATd2aUyqLwMXf7)
 
-There will be no reviewing, but acceptance is subject to approval by the organizers. A preliminary will be published as soon as possible. 
+There will be no reviewing, but acceptance is subject to approval by the organizers. A preliminary program will be published as soon as possible. 
 
 ## Venue
 
