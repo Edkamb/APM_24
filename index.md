@@ -17,11 +17,12 @@ There will be no reviewing, but acceptance is subject to approval by the organiz
 
 
 ## Venue and Registration 
-The workshop will be held at the beautiful Univeristy of Turin. 
+The workshop will be held at the Department of Mathematics of the University of Turin, located at the center of the beautiful Univeristy of Turin: 
 
 Palazzo Campana
 Via Carlo Alberto, 10
 Torino
+
 https://en.unito.it/about-unito/seats/metropolitan-seats/how-get-palazzo-campana
 
 There will be a modest registration free to cover coffee breaks and lunches, and an option to register for a social dinner (on October 3) and/or for a social event (on October 4 evening, with a limited number of partecipants).
