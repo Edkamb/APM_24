@@ -3,7 +3,7 @@ Information about prior iterations can be found [here](https://abs-models.org/pu
 
 
 ## Description
-The APM Workshop is a venue for the discussion of asynchronous programming patterns, languages and model, ranging from theoretical results, over applications and implementations to opinion and overview contributions. To create a welcoming atmosphere for the community, there are no procedeedings -- instead we welcome presentations on published, on-going or envisioned work. We especially encourage the participation of junior researchers and presentations that can be the basis for discussions on the future of the field.
+The APM Workshop is a venue for the discussion of asynchronous programming patterns, languages and model, ranging from theoretical results, over applications and implementations to opinion and overview contributions. To create a welcoming atmosphere for the community, there are no proceedings -- instead we welcome presentations on published, on-going or envisioned work. We especially encourage the participation of junior researchers and presentations that can be the basis for discussions on the future of the field.
 
 The APM workshop stands in the tradition of the [ABS](https://abs-models.org) workshop, whose [last iteration](http://edkamb.github.io/ABS_23) took place in Lyon, France, but is not specific to any language or paradigm. 
 
@@ -27,9 +27,9 @@ Torino
 
 ## Registration 
 
-There will be a modest registration free to cover coffee breaks and lunches, and an option to register for a social dinner (on October 3) and/or for a social event (on October 4 evening, with a limited number of partecipants).
+There will be a modest registration free to cover coffee breaks and lunches, and an option to register for a social dinner (on October 3) and/or for a social event (on October 4 evening, with a limited number of participants).
 
-The registration page will be avalable soon (early registration up to July 31).
+The registration page will be available soon (early registration up to July 31).
 
 ## Organizers
 If there are any inquiries or questions, feel free to contact the organizers:
