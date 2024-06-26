@@ -29,9 +29,9 @@ The schedule will be 09:00 - 17:00 on 02.10 and 03.10, and 09:00 - 12:00 (and su
 
 ## Registration 
 
-There will be a modest registration free to cover coffee breaks and lunches, and an option to register for a social dinner (on October 3) and/or for a social event (on October 4 evening, with a limited number of participants).
+The registration free covers coffee breaks and lunches, and an option to register for a social dinner (on October 3) and/or for a social event (on October 4 evening, with a limited number of participants). Please regiostea a.s.a.p at the following url (early registration up to August 11, time of Italy):
 
-The registration page will be available soon (early registration up to July 31).
+  [https://ticket.synesthesia.it/unito/apm-2024/](https://ticket.synesthesia.it/unito/apm-2024/)
 
 ## Organizers
 If there are any inquiries or questions, feel free to contact the organizers:
