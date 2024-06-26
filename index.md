@@ -27,7 +27,7 @@ Torino
 
 The schedule will be 09:00 - 17:00 on 02.10 and 03.10, and 09:00 - 12:00 (and subsequent lunch) on 04.10.
 
-## Registration is now open (early registration up to August 11 at 23:59, time of Italy)
+## Registration is now open (early registration up to August 11 at 23:59 CET) 
 
 The registration free covers coffee breaks and lunches, and there is an option to register for a social dinner (on October 3) and/or for a social event (on October 4 evening, with a limited number of participants). Please register at the following url (early registration up to August 11 at 23:59, time of Italy):
 
