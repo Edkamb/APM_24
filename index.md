@@ -25,7 +25,7 @@ Torino
 
 [https://en.unito.it/about-unito/seats/metropolitan-seats/how-get-palazzo-campana](https://en.unito.it/about-unito/seats/metropolitan-seats/how-get-palazzo-campana)
 
-The schedule will be 09:00 - 17:00 on 02.10 and 03.10, and 09:00 - 12:00 (and subsequent lunch) on 04.10.
+The preliminary schedule is 09:00 - 17:00 on 02.10 and 03.10, and 09:00 - 13:00 (and subsequent lunch) on 04.10.
 
 ## Registration is now open (early registration up to August 11 at 23:59 CET) 
 
