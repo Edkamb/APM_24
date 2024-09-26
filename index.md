@@ -35,7 +35,7 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 | 11:00 -- 11:30 | Paola Giannini: _Global Types for Agent Interaction Protocols_ |
 | 11:30 -- 12:00 | Einar Broch Johnsen: _Proving Correctness of Parallel Implementations of Transition System Models_ |
 | 12:00 -- 14:00 | **Lunch Break** |
-| --- | Chair: Volker Stolz |
+| --- | Chair: Einar Broch Johnsen |
 | 14:00 -- 14:45 | Marco Scaletta: _Context-aware Trace Contracts (Part I)_ |
 | 14:45 -- 15:30 | Reiner Hähnle: _Context-aware Trace Contracts (Part II)_ |
 | 15:30 -- 16:00 | **Coffee Break** |
@@ -47,7 +47,7 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 | Time  | Presentation |
 | -------------  | ------------- |
 | 10:00 -- 10:30 | Welcome Coffee  |
-| --- | Chair: Einar Broch Johnsen |
+| --- | Chair: Volker Stolz |
 | 10:30 -- 11:15 | Michael Lienhardt: _A language for Orchestration of Data Processing_ |
 | 11:15 -- 12:00 | Matteo Baldoni: _Programming Multiagent Systems via Information Protocols: the case of Jason_ |
 | 12:00 -- 14:00 | **Lunch Break** |
