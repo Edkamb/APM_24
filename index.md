@@ -7,14 +7,6 @@ The APM Workshop is a venue for the discussion of asynchronous programming patte
 
 The APM workshop stands in the tradition of the [ABS](https://abs-models.org) workshop, whose [last iteration](http://edkamb.github.io/ABS_23) took place in Lyon, France, but is not specific to any language or paradigm. 
 
-## Talk proposal submission
- 
-To submit a talk proposal, please submit it under 
-
-  [https://forms.gle/UqBmfKUqYTUqhE7r7](https://forms.gle/WDBATd2aUyqLwMXf7)
-
-There will be no reviewing, but acceptance is subject to approval by the organizers. A preliminary program will be published as soon as possible. 
-
 ## Venue
 
 The workshop will be held at the Department of Mathematics of the University of Turin, located at the center of the beautiful city of Turin: 
@@ -33,7 +25,53 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 
 ## Program
 
-The preliminary schedule is 09:00 - 17:00 on 02.10 and 03.10, and 09:00 - 13:00 (and subsequent lunch) on 04.10.
+### Program 02.10
+
+| Time  | Presentation |
+| -------------  | ------------- |
+| 10:00 -- 10:30 | Welcome Coffee  |
+| --- | Chair: Ferruccio Damiani |
+| 10:30 -- 11:00 | Mariangiola Dezani: _Asynchronous Multiparty Sessions with Internal Delegation_ |
+| 11:00 -- 11:30 | Paola Giannini: _Global Types for Agent Interaction Protocols_ |
+| 11:30 -- 12:00 | Einar Broch Johnsen: _Proving Correctness of Parallel Implementations of Transition System Models_ |
+| 12:00 -- 14:00 | **Lunch Break** |
+| --- | Chair: Volker Stolz |
+| 14:00 -- 14:45 | Marco Scaletta: _Context-aware Trace Contracts (Part I)_ |
+| 14:45 -- 15:30 | Reiner Hähnle: _Context-aware Trace Contracts (Part II)_ |
+| 15:30 -- 16:00 | **Coffee Break** |
+| --- | Chair: Michael Lienhardt |
+| 16:00 -- 17:30 | Discussion: _State-of-the-Art in Types for Asynchronous Models_ |
+
+### Program 03.10
+
+| Time  | Presentation |
+| -------------  | ------------- |
+| 10:00 -- 10:30 | Welcome Coffee  |
+| --- | Chair: Einar Broch Johnsen |
+| 10:30 -- 11:15 | Michael Lienhardt: _A language for Orchestration of Data Processing_ |
+| 11:15 -- 12:00 | Matteo Baldoni: _Programming Multiagent Systems via Information Protocols: the case of Jason_ |
+| 12:00 -- 14:00 | **Lunch Break** |
+| --- | Chair: Reiner Hähnle |
+| 14:00 -- 14:30 | Rasmus Ronneberg: _Information Flow Control by Construction in Asynchronous Systems_ |
+| 14:30 -- 15:00 | Silvia Lizeth Tapia Tarifa: _Integrating Data Privacy Compliance in Active Object Languages_ |
+| 15:00 -- 15:30 | Ferruccio Damiani: _Aggregate Programming state of affairs_ |
+| 15:30 -- 16:00 | **Coffee Break** |
+| --- | Chair: Michael Lienhardt |
+| 16:00 -- 17:30 | Discussion: _State-of-the-Art in Types for Asynchronous Models_ |
+| 19:30 | **Social Dinner at Cantine Barbaroux Restaurant (https://cantinebarbaroux.it/)** |
+
+### Program 04.10
+
+| Time  | Presentation |
+| -------------  | ------------- |
+| 10:00 -- 10:30 | Welcome Coffee  |
+| --- | Chair: Luca Paolini |
+| 10:30 -- 11:00 | Torta Gianluca: _Aggregate Programming for RV: Towards Real-Time Guarantees for Spatial Properties_ |
+| 11:00 -- 11:30 | Giodano Scarso: _AP goes into the virtual and non-virtual real world_ |
+| 11:30 -- 12:00 | Maurice ter Beek: _From Synchronous to Asynchronous Communication in Team Automata_ |
+| 12:00 --  | **Lunch ** |
+| 19:30 | **Social Event at Rossorubino Enoteca (https://rossorubino.net/contatti/)** |
+
 
 ## Registration is now open (early registration up to August 11 at 23:59 CET) 
 
