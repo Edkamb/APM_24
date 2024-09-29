@@ -69,7 +69,7 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 | 10:30 -- 11:00 | Torta Gianluca: _Aggregate Programming for RV: Towards Real-Time Guarantees for Spatial Properties_ |
 | 11:00 -- 11:30 | Giodano Scarso: _AP goes into the virtual and non-virtual real world_ |
 | 11:30 -- 12:00 | Maurice ter Beek: _From Synchronous to Asynchronous Communication in Team Automata_ |
-| 12:00 -- 13:00 | **Lunch** (catering at the conference place)|
+| 12:00 -- 13:00 | **Lunch Break** (at the conference place)|
 | --- | Chair: Ferruccio Damiani|
 | 13:00 --  | Discussion and closing |
 | 19:30 | **Social Event at Rossorubino Enoteca (https://rossorubino.net/contatti/)** |
