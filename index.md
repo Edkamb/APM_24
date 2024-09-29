@@ -34,7 +34,7 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 | 10:30 -- 11:00 | Mariangiola Dezani: _Asynchronous Multiparty Sessions with Internal Delegation_ |
 | 11:00 -- 11:30 | Paola Giannini: _Global Types for Agent Interaction Protocols_ |
 | 11:30 -- 12:00 | Einar Broch Johnsen: _Proving Correctness of Parallel Implementations of Transition System Models_ |
-| 12:00 -- 14:00 | **Lunch Break** |
+| 12:00 -- 14:00 | **Lunch Break** (in a restaurant at walking distance)|
 | --- | Chair: Einar Broch Johnsen |
 | 14:00 -- 14:45 | Marco Scaletta: _Context-aware Trace Contracts (Part I)_ |
 | 14:45 -- 15:30 | Reiner Hähnle: _Context-aware Trace Contracts (Part II)_ |
@@ -50,7 +50,7 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 | --- | Chair: Volker Stolz |
 | 10:30 -- 11:15 | Michael Lienhardt: _A language for Orchestration of Data Processing_ |
 | 11:15 -- 12:00 | Matteo Baldoni: _Programming Multiagent Systems via Information Protocols: the case of Jason_ |
-| 12:00 -- 14:00 | **Lunch Break** |
+| 12:00 -- 14:00 | **Lunch Break** (in a pizzeria at walking distance)|
 | --- | Chair: Reiner Hähnle |
 | 14:00 -- 14:30 | Rasmus Ronneberg: _Information Flow Control by Construction in Asynchronous Systems_ |
 | 14:30 -- 15:00 | Silvia Lizeth Tapia Tarifa: _Integrating Data Privacy Compliance in Active Object Languages_ |
@@ -69,7 +69,9 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 | 10:30 -- 11:00 | Torta Gianluca: _Aggregate Programming for RV: Towards Real-Time Guarantees for Spatial Properties_ |
 | 11:00 -- 11:30 | Giodano Scarso: _AP goes into the virtual and non-virtual real world_ |
 | 11:30 -- 12:00 | Maurice ter Beek: _From Synchronous to Asynchronous Communication in Team Automata_ |
-| 12:00 --  | **Lunch ** |
+| 12:00 -- 13:00 | **Lunch** (catering at the conference place)|
+| --- | Chair: Ferruccioo Damiani|
+| 13:00 --  | Discussion and closing |
 | 19:30 | **Social Event at Rossorubino Enoteca (https://rossorubino.net/contatti/)** |
 
 
