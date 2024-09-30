@@ -36,8 +36,8 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 | 11:30 -- 12:00 | Einar Broch Johnsen: _Proving Correctness of Parallel Implementations of Transition System Models_ |
 | 12:00 -- 14:00 | **Lunch Break** (in a restaurant at walking distance)|
 | --- | Chair: Einar Broch Johnsen |
-| 14:00 -- 14:45 | Marco Scaletta: _Context-aware Trace Contracts (Part I)_ |
-| 14:45 -- 15:30 | Reiner Hähnle: _Context-aware Trace Contracts (Part II)_ |
+| 14:45 -- 15:30 | Reiner Hähnle: _Context-aware Trace Contracts (Part I)_ |
+| 14:00 -- 14:45 | Marco Scaletta: _Context-aware Trace Contracts (Part II)_ |
 | 15:30 -- 16:00 | **Coffee Break** |
 | --- | Chair: Michael Lienhardt |
 | 16:00 -- 17:30 | Discussion: _State-of-the-Art in Types for Asynchronous Models_ |
