@@ -48,14 +48,14 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 | -------------  | ------------- |
 | 10:00 -- 10:30 | Welcome Coffee  (room "SALA PROFESSORI", 1st floor) |
 | --- | Chair: Volker Stolz |
-| 10:30 -- 11:15 | Michael Lienhardt: _A language for Orchestration of Data Processing_ |
-| 11:15 -- 12:00 | Matteo Baldoni: _Programming Multiagent Systems via Information Protocols: the case of Jason_ |
+| 10:30 -- 11:00 | Silvia Lizeth Tapia Tarifa: _Integrating Data Privacy Compliance in Active Object Languages_ |
+| 11:00 -- 12:00 | Matteo Baldoni: _Programming Multiagent Systems via Information Protocols: the case of Jason_ |
 | 12:00 -- 14:00 | **Lunch Break** (in a pizzeria at walking distance: "Pizza Ad Hoc", Via Giovanni Plana 7/B, 10123 Torino - https://pizzaadhoc.it/ )|
 | --- | Chair: Reiner Hähnle |
 | 14:00 -- 14:30 | Rasmus Ronneberg: _Information Flow Control by Construction in Asynchronous Systems_ |
-| 14:30 -- 15:00 | Silvia Lizeth Tapia Tarifa: _Integrating Data Privacy Compliance in Active Object Languages_ |
-| 15:00 -- 15:30 | Ferruccio Damiani: _Aggregate Programming state of affairs_ |
-| 15:30 -- 16:00 | **Coffee Break** (room "SALA PROFESSORI", 1st floor) |
+| 14:30 -- 15:15 | Michael Lienhardt: _A language for Orchestration of Data Processing_  |
+| 15:15 -- 15:45 | Ferruccio Damiani: _Aggregate Programming state of affairs_ |
+| 15:45 -- 16:15 | **Coffee Break** (room "SALA PROFESSORI", 1st floor) |
 | --- | Chair: Michael Lienhardt |
 | 16:00 -- 17:30 | Discussion: _State-of-the-Art in Types for Asynchronous Models_ |
 | 19:30 | **Social Dinner at Cantine Barbaroux Restaurant (https://cantinebarbaroux.it/)** |
