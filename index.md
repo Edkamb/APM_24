@@ -29,16 +29,16 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 
 | Time  | Presentation |
 | -------------  | ------------- |
-| 10:00 -- 10:30 | Welcome Coffee (room "SALA PROFESSRI", 1st floor) | 
+| 10:00 -- 10:30 | Welcome Coffee (room "SALA PROFESSORI", 1st floor) | 
 | --- | Chair: Ferruccio Damiani |
 | 10:30 -- 11:00 | Mariangiola Dezani: _Asynchronous Multiparty Sessions with Internal Delegation_ |
 | 11:00 -- 11:30 | Paola Giannini: _Global Types for Agent Interaction Protocols_ |
 | 11:30 -- 12:00 | Einar Broch Johnsen: _Proving Correctness of Parallel Implementations of Transition System Models_ |
-| 12:00 -- 14:00 | **Lunch Break** (in a restaurant at walking distance)|
+| 12:00 -- 14:00 | **Lunch Break** (in a restaurant at walking distance: "Da Michele 1922", Piazza Vittorio Veneto 4, 10123 Torino - https://www.damichele1922.it/)|
 | --- | Chair: Einar Broch Johnsen |
 | 14:45 -- 15:30 | Reiner Hähnle: _Context-aware Trace Contracts (Part I)_ |
 | 14:00 -- 14:45 | Marco Scaletta: _Context-aware Trace Contracts (Part II)_ |
-| 15:30 -- 16:00 | **Coffee Break** (room "SALA PROFESSRI", 1st floor) |
+| 15:30 -- 16:00 | **Coffee Break** (room "SALA PROFESSORI", 1st floor) |
 | --- | Chair: Michael Lienhardt |
 | 16:00 -- 17:30 | Discussion: _State-of-the-Art in Types for Asynchronous Models_ |
 
@@ -46,16 +46,16 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 
 | Time  | Presentation |
 | -------------  | ------------- |
-| 10:00 -- 10:30 | Welcome Coffee  (room "SALA PROFESSRI", 1st floor) |
+| 10:00 -- 10:30 | Welcome Coffee  (room "SALA PROFESSORI", 1st floor) |
 | --- | Chair: Volker Stolz |
 | 10:30 -- 11:15 | Michael Lienhardt: _A language for Orchestration of Data Processing_ |
 | 11:15 -- 12:00 | Matteo Baldoni: _Programming Multiagent Systems via Information Protocols: the case of Jason_ |
-| 12:00 -- 14:00 | **Lunch Break** (in a pizzeria at walking distance)|
+| 12:00 -- 14:00 | **Lunch Break** (in a pizzeria at walking distance: "Pizza Ad Hoc", Via Giovanni Plana 7/B, 10123 Torino - https://pizzaadhoc.it/ )|
 | --- | Chair: Reiner Hähnle |
 | 14:00 -- 14:30 | Rasmus Ronneberg: _Information Flow Control by Construction in Asynchronous Systems_ |
 | 14:30 -- 15:00 | Silvia Lizeth Tapia Tarifa: _Integrating Data Privacy Compliance in Active Object Languages_ |
 | 15:00 -- 15:30 | Ferruccio Damiani: _Aggregate Programming state of affairs_ |
-| 15:30 -- 16:00 | **Coffee Break** (room "SALA PROFESSRI", 1st floor) |
+| 15:30 -- 16:00 | **Coffee Break** (room "SALA PROFESSORI", 1st floor) |
 | --- | Chair: Michael Lienhardt |
 | 16:00 -- 17:30 | Discussion: _State-of-the-Art in Types for Asynchronous Models_ |
 | 19:30 | **Social Dinner at Cantine Barbaroux Restaurant (https://cantinebarbaroux.it/)** |
@@ -64,7 +64,7 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 
 | Time  | Presentation |
 | -------------  | ------------- |
-| 10:00 -- 10:30 | Welcome Coffee (room "SALA PROFESSRI", 1st floor)  |
+| 10:00 -- 10:30 | Welcome Coffee (room "SALA PROFESSORI", 1st floor)  |
 | --- | Chair: Luca Paolini |
 | 10:30 -- 11:00 | Torta Gianluca: _Aggregate Programming for RV: Towards Real-Time Guarantees for Spatial Properties_ |
 | 11:00 -- 11:30 | Giodano Scarso: _AP goes into the virtual and non-virtual real world_ |
