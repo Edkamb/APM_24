@@ -57,7 +57,7 @@ The room is equipped with a Casio overhead projector (HDMI port, 16:9 format, FU
 | 15:15 -- 15:45 | Ferruccio Damiani: _Aggregate Programming state of affairs_ |
 | 15:45 -- 16:15 | **Coffee Break** (room "SALA PROFESSORI", 1st floor) |
 | --- | Chair: Michael Lienhardt |
-| 16:00 -- 17:30 | Discussion: _State-of-the-Art in Types for Asynchronous Models_ |
+| 16:15 -- 17:45 | Discussion: _State-of-the-Art in Types for Asynchronous Models_ |
 | 19:30 | **Social Dinner at Cantine Barbaroux Restaurant (https://cantinebarbaroux.it/)** |
 
 ### Program 04.10
